@@ -26,4 +26,3 @@ USD , YUAN , YEN , POND , EURO
 4.COT.c___________________(Program file)
 
 
-##Tiger was here yay
